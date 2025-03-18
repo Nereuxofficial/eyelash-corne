@@ -8,11 +8,11 @@ manifest:
       # - https://docs.zephyrproject.org/3.5.0/develop/west/manifest.html#projects
     - name: petejohanson
       url-base: https://github.com/petejohanson
-    - name: crizzy9
-      url-base: http://github.com/crizzy9
+    - name: nereuxofficial
+      url-base: http://github.com/Nereuxofficial
   projects:
     - name: zmk
-      remote: petejohanson
+      remote: nereuxofficial
       revision: feat/pointers-with-input-processors
       import: app/west.yml
   self:
