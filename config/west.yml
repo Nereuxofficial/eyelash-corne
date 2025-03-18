@@ -12,7 +12,7 @@ manifest:
       url-base: http://github.com/Nereuxofficial
   projects:
     - name: zmk
-      remote: nereuxofficial
+      remote: petejohanson
       revision: feat/pointers-with-input-processors
       import: app/west.yml
   self:
